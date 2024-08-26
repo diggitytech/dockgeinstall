@@ -1,14 +1,14 @@
-DB Tech's Docker and Docker Compose Install
+Diggitytech's Dockge Docker and Docker Compose Install
 ===
 
-## Install Using Root (Non-Root method below)
+## Install Using
 
 If you don't have git installed, you can run:
 ```
 apt install git
 ```
 
-To install the newest versions of sudo (optional depending on which script you use), curl, Docker, and docker compose, simply ssh into your server, then clone this repository with: 
+To install the newest versions of sudo (optional depending on which script you use), curl, Docker, and docker compose, dockge simply ssh into your server, then clone this repository with: 
 ```
 git clone https://github.com/diggitytech/dockgeinstall.git
 ```
